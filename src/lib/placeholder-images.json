@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-coxinha",
+      "description": "Imagem de uma coxinha suculenta e dourada em um prato.",
+      "imageUrl": "https://images.unsplash.com/photo-1768475011729-80f491cd1c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y294aW5oYSUyMHNuYWNrfGVufDB8fHx8MTc2ODg1MDcxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coxinha snack"
+    }
+  ]
+}
